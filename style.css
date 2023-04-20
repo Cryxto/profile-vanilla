@@ -73,6 +73,9 @@ main {
   #contact i{
     font-size: 2rem;
   }
+  .footer-text-rs{
+    font-size: 1rem;
+  }
 }
 
 /* #vscode {
