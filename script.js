@@ -7,7 +7,7 @@ gsap.from(".jumbotron .name", {
   duration: 1,
   opacity: 0,
   ease: "back",
-  x: "50%",
+  x: "-50%",
   delay: 0.5,
 });
 

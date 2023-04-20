@@ -21,12 +21,12 @@ footer{
   background-color: #222121;
 } */
 
-img {
+/* img {
   overflow: hidden !important;
-}
+} */
 .jumbotron {
   padding-top: 2rem;
-  overflow: hidden !important;
+  /* overflow: hidden !important; */
 }
 main {
   font-family: "Poppins", sans-serif;
