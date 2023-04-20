@@ -65,12 +65,16 @@ main {
   #contact i{
     font-size: 2rem;
   }
+  i.exclude{
+    font-size: 1rem !important;
+  }
 }
 @media (max-width : 640px){
   #contact i{
     font-size: 2rem;
   }
 }
+
 /* #vscode {
   max-width: 70%;
 } */
@@ -98,3 +102,4 @@ a.custom-font-color-1:hover {
   /* border: 0.8em solid #918f8f; */
   border: 0.8em solid #eeeeee;
 }
+
