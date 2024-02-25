@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  nginx:
+    image: nginx:alpine
+    volumes:
+      - ./data:/usr/share/nginx/html
+    networks:
+      - public
+
+networks:
+  public:
+    external: true
