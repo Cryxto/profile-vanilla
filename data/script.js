@@ -12,7 +12,7 @@ gsap.from(".jumbotron .name", {
 });
 
 gsap.registerPlugin(TextPlugin);
-gsap.to(".lead", { delay: 1.5, duration: 2, text: "Student | Junior Web Developer" });
+gsap.to(".lead", { delay: 1.5, duration: 2, text: "Junior Web Developer" });
 
 const projects = document.querySelectorAll("#projects .project");
 
